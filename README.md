@@ -40,6 +40,7 @@ Teclado & Touchpad ✅
 WI-FI    ✅
 
   - Intel(R)  Wireless AC-9462
+    
 Bluetooth✅
 
   - Intel(R) Wireless Bluetooth(R)
