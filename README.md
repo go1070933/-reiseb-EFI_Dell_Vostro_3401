@@ -28,22 +28,40 @@ MacOS : Sonoma 14.6.1
 -----------------------
 
 Tela  ✅
+
 Sleep ✅
+
 USBs  ✅
+
 HDMI  ❌
+
 Teclado & Touchpad ✅
+
 WI-FI    ✅
+
   - Intel(R)  Wireless AC-9462
 Bluetooth✅
+
   - Intel(R) Wireless Bluetooth(R)
+    
 Ethernet ✅
+
   - Realtek RTL8111
+    
 Alto-falante & Microfone✅
+
   - ALC236, layout-id=3
+    
 Webcam       ✅
+
 Atualizações ✅
+
 AirDrop  ❌
+
 AirPlay  ❌
+
 iServices ✅
+
 -Hackintosh para o iPhone ❌
+
 -iPhone para o Hackintosh ❌
