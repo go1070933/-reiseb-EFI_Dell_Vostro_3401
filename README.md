@@ -59,7 +59,9 @@ Atualizações ✅
 
 AirDrop  ❌
 
-AirPlay  ❌
+AirPlay  ✅  
+
+- via AppleTV server receiver emulated pelo Uxplay no Ubuntu 22.2.4 (Screen Mirroring + Audio)
 
 iServices ✅
 
