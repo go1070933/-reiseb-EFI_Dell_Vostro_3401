@@ -1,0 +1,282 @@
+[
+    {
+        "class": 48,
+        "identifiers": {
+            "acpi_path": "\\_SB.PCI0.XHC",
+            "bdf": [
+                0,
+                20,
+                0
+            ],
+            "location_id": 335544320,
+            "path": "IOService:/AppleACPIPlatformExpert/PCI0@0/AppleACPIPCI/XHC@14/XHC@14000000",
+            "pci_id": [
+                "8086",
+                "34ed",
+                "1028",
+                "0a29"
+            ],
+            "pci_revision": 48
+        },
+        "name": "XHC",
+        "ports": [
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 1,
+                "location_id": 336592896,
+                "name": "AppleUSB20XHCIPort",
+                "selected": true,
+                "selection_index": 1,
+                "type": 0
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 2,
+                "location_id": 337641472,
+                "name": "AppleUSB20XHCIPort",
+                "selected": true,
+                "selection_index": 2,
+                "type": 0
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [
+                    {
+                        "devices": [],
+                        "location_id": 338690048,
+                        "name": "Usb Mouse",
+                        "port": 3,
+                        "speed": 0
+                    }
+                ],
+                "guessed": null,
+                "index": 3,
+                "location_id": 338690048,
+                "name": "AppleUSB20XHCIPort",
+                "selected": true,
+                "selection_index": 3,
+                "type": 0
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 4,
+                "location_id": 339738624,
+                "name": "AppleUSB20XHCIPort",
+                "selected": false,
+                "selection_index": 4,
+                "type": null
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [
+                    {
+                        "devices": [],
+                        "location_id": 340787200,
+                        "name": "FingerPrint",
+                        "port": 5,
+                        "speed": 1
+                    }
+                ],
+                "guessed": null,
+                "index": 5,
+                "location_id": 340787200,
+                "name": "AppleUSB20XHCIPort",
+                "selected": true,
+                "selection_index": 5,
+                "type": 255
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [
+                    {
+                        "devices": [],
+                        "location_id": 341835776,
+                        "name": "Integrated_Webcam_HD",
+                        "port": 6,
+                        "speed": 2
+                    }
+                ],
+                "guessed": null,
+                "index": 6,
+                "location_id": 341835776,
+                "name": "AppleUSB20XHCIPort",
+                "selected": true,
+                "selection_index": 6,
+                "type": 255
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 7,
+                "location_id": 342884352,
+                "name": "AppleUSB20XHCIPort",
+                "selected": false,
+                "selection_index": 7,
+                "type": null
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 8,
+                "location_id": 343932928,
+                "name": "AppleUSB20XHCIPort",
+                "selected": false,
+                "selection_index": 8,
+                "type": null
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 9,
+                "location_id": 344981504,
+                "name": "AppleUSB20XHCIPort",
+                "selected": false,
+                "selection_index": 9,
+                "type": null
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [
+                    {
+                        "devices": [],
+                        "location_id": 346030080,
+                        "name": "IOUSBHostDevice",
+                        "port": 10,
+                        "speed": 1
+                    }
+                ],
+                "guessed": null,
+                "index": 10,
+                "location_id": 346030080,
+                "name": "AppleUSB20XHCIPort",
+                "selected": true,
+                "selection_index": 10,
+                "type": 255
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 11,
+                "location_id": 347078656,
+                "name": "AppleUSB20XHCIPort",
+                "selected": false,
+                "selection_index": 11,
+                "type": null
+            },
+            {
+                "class": 2,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 12,
+                "location_id": 348127232,
+                "name": "AppleUSB20XHCIPort",
+                "selected": false,
+                "selection_index": 12,
+                "type": null
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 13,
+                "location_id": 349175808,
+                "name": "AppleUSB30XHCIPort",
+                "selected": true,
+                "selection_index": 13,
+                "type": 3
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "devices": [
+                    {
+                        "devices": [],
+                        "location_id": 350224384,
+                        "name": " SanDisk 3.2Gen1",
+                        "port": 14,
+                        "speed": 3
+                    }
+                ],
+                "guessed": null,
+                "index": 14,
+                "location_id": 350224384,
+                "name": "AppleUSB30XHCIPort",
+                "selected": true,
+                "selection_index": 14,
+                "type": 3
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 15,
+                "location_id": 351272960,
+                "name": "AppleUSB30XHCIPort",
+                "selected": false,
+                "selection_index": 15,
+                "type": null
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 16,
+                "location_id": 352321536,
+                "name": "AppleUSB30XHCIPort",
+                "selected": false,
+                "selection_index": 16,
+                "type": null
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 17,
+                "location_id": 353370112,
+                "name": "AppleUSB30XHCIPort",
+                "selected": false,
+                "selection_index": 17,
+                "type": null
+            },
+            {
+                "class": 3,
+                "comment": null,
+                "devices": [],
+                "guessed": null,
+                "index": 18,
+                "location_id": 354418688,
+                "name": "AppleUSB30XHCIPort",
+                "selected": false,
+                "selection_index": 18,
+                "type": null
+            }
+        ],
+        "selected_count": 8
+    }
+]
